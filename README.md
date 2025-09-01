@@ -38,3 +38,28 @@ Indicates interactive components and their behavior.
 
 By combining these elements, wireframes serve as a **blueprint** that ensures both usability and clarity before moving to detailed design stages.  
 
+---------------------------------------------------
+
+# Types of Wireframes  
+
+Wireframes can be created at different levels of detail depending on the stage of the design process. The two most common types are **low-fidelity** and **high-fidelity** wireframes.  
+
+## Low-Fidelity Wireframes  
+- **Description:** Simple, hand-drawn sketches or basic digital outlines that focus on structure rather than detail.  
+- **Purpose:** Used to quickly explore ideas, visualize user flows, and gather early feedback without investing much time.  
+- **Typical Use:** Early stages of the design process, brainstorming sessions, or workshops where speed and flexibility are most important.  
+- **Example:** A rough sketch of a checkout page showing placeholder boxes for booking details, payment options, and confirmation button.  
+
+## High-Fidelity Wireframes  
+- **Description:** More detailed and polished representations of the interface, often created using design tools. They may include typography, spacing, icons, and interactive elements.  
+- **Purpose:** Used to validate usability, refine design decisions, and prepare for prototyping or handoff to developers.  
+- **Typical Use:** Later stages of the design process, once the overall layout and structure are confirmed.  
+- **Example:** A digital wireframe of the checkout page that includes aligned sections, labeled fields for credit card input, and styled buttons.  
+
+---  
+
+✅ In short:  
+- Use **low-fidelity wireframes** when you want to brainstorm, iterate quickly, and validate ideas.  
+- Use **high-fidelity wireframes** when you’re ready to refine details, test usability, and prepare for development.  
+
+
