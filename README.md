@@ -60,6 +60,29 @@ Wireframes can be created at different levels of detail depending on the stage o
 
 ✅ In short:  
 - Use **low-fidelity wireframes** when you want to brainstorm, iterate quickly, and validate ideas.  
-- Use **high-fidelity wireframes** when you’re ready to refine details, test usability, and prepare for development.  
+- Use **high-fidelity wireframes** when you’re ready to refine details, test usability, and prepare for development.
+----------------------------------------------------
+# Popular Wireframing Tools :
+
+Several tools are available to help designers create wireframes, ranging from simple sketching apps to advanced collaborative platforms. Choosing the right tool depends on the level of detail required, team collaboration needs, and the stage of the design process.  
+
+## Recommended Tool: Figma  
+
+**Figma** is one of the most widely used tools for wireframing and interface design. It is a cloud-based platform that allows real-time collaboration, making it ideal for teams working remotely or across different locations.  
+
+### Key Features of Figma for Wireframing:  
+- **Cross-Platform Access:** Works directly in the browser or as a desktop/mobile app, ensuring accessibility anywhere.  
+- **Real-Time Collaboration:** Multiple team members can work on the same wireframe simultaneously, similar to Google Docs.  
+- **Component Reuse:** Designers can create reusable UI components (e.g., buttons, forms) to maintain consistency.  
+- **Versatility:** Supports both low-fidelity wireframes (simple shapes and layouts) and high-fidelity mockups with detailed visuals.  
+- **Version Control:** Automatically saves changes and allows easy tracking of design history.  
+
+### Why Figma is Useful for Wireframing  
+Figma speeds up the design process by allowing quick iteration, feedback, and refinement. Since it combines simplicity for early sketches with advanced features for detailed mockups, it serves as an all-in-one solution throughout the design lifecycle.  
+
+---  
+
+Other popular tools for wireframing include **Sketch**, **Adobe XD**, **Balsamiq**, and **InVision**, but Figma is highly recommended due to its ease of use, collaboration features, and flexibility.  
+
 
 
